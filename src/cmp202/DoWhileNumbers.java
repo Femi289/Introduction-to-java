@@ -1,3 +1,6 @@
+package cmp202;
+
+
 import java.util.Scanner;
 
 public class DoWhileNumbers
@@ -14,6 +17,6 @@ public class DoWhileNumbers
 			System.out.println(yourAge);
 		}
 		
-		while(yourAge < 18)		
+		while(yourAge < 18);	
 	}
 }
